@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and perfect narrative of the great and dreadful damages susteyned in several parts of England, by the late extraordinary snovvs whereby above twenty families of poor people, men, women, and children, were distressed, and some destroyed at Langsdale, in the bishoprick of Durham: the snow from the hills covering the tops of their houses, that they could not get out: having burnt all their goods to keep them warm. As also of a family in Somerset-shire neer Bath, so beset with the snow, that they were forced to live three days on nothing but grains. And several persons, and great quantities of cattle and sheep lost in Northumberland, Darbyshire, Glocestershire, Shropshire, Lincolnshire, Isle of Ely, and other places. Faithfully extracted from letters lately sent form persons of good credit and quality in all those parts.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63430</idno>
+            <idno type="STC">Wing T2531A</idno>
+            <idno type="STC">ESTC R218009</idno>
+            <idno type="EEBO-CITATION">99829637</idno>
+            <idno type="PROQUEST">99829637</idno>
+            <idno type="VID">34078</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63430)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34078)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1981:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and perfect narrative of the great and dreadful damages susteyned in several parts of England, by the late extraordinary snovvs whereby above twenty families of poor people, men, women, and children, were distressed, and some destroyed at Langsdale, in the bishoprick of Durham: the snow from the hills covering the tops of their houses, that they could not get out: having burnt all their goods to keep them warm. As also of a family in Somerset-shire neer Bath, so beset with the snow, that they were forced to live three days on nothing but grains. And several persons, and great quantities of cattle and sheep lost in Northumberland, Darbyshire, Glocestershire, Shropshire, Lincolnshire, Isle of Ely, and other places. Faithfully extracted from letters lately sent form persons of good credit and quality in all those parts.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, in VVest-Smith's field,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Snow --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34078:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>A True and Perfect NARRATIVE OF THE Great and Dreadful <hi>Damages</hi> Suſteyned in Several Parts of <hi>England,</hi> by the Late Extraordinary SNOWS: Whereby above <hi>Twenty Families</hi> of Poor People, Men, Women, and Children, were Diſtreſſed, and ſome Deſtroyed at <hi>Langſdale,</hi> in the Biſhoprick of <hi>Durham:</hi> The Snow from the Hills covering the Tops of their Houſes, that they could not get out: having burnt all their Goods to keep them warm.</p>
+            <p>As alſo of a Family in <hi>Somerſet-ſhire</hi> neer <hi>Bath,</hi> ſo beſet with the Snow, that they were forced to live Three Days on nothing but Grains.</p>
+            <p>And ſeveral Perſons, and Great Quantities of Cattle and Sheep loſt in <hi>Northumberland, Darbyſhire, Glocesterſhire, Shropſhire, Lincolnſhire, Iſle</hi> of <hi>Ely,</hi> and other places.</p>
+            <p>
+               <hi>Faithfully Extracted from Letters lately ſent from Perſons of Good Credit and Quality in all thoſe parts.</hi>
+            </p>
+            <p>Printed for <hi>P. Brooksby,</hi> in <hi>VVest-Smith's field.</hi>
+            </p>
+            <pb facs="tcp:34078:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="3" facs="tcp:34078:3"/>
+            <!-- PDF PAGE 21 -->
+            <head>THE Wonderful SNOW.</head>
+            <p>BY a Letter Dated the 7th. of <hi>March</hi> inſtant, ſent to an eminent Shop-keeper in <hi>Thames-ſtreet,</hi> from a Chapman of his living at  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  in the Biſhoprick of <hi>Durham,</hi> we are aſcertained of a moſt ſad accident occaſioned there by the late exceſſive Snows, which is ſince confirmed by ſeveral other Poſts from thoſe parts, to have hapned as follows.</p>
+            <p>In a place called <hi>Langſdale,</hi> ſcituated towards the North of the Biſhoprick of <hi>Durham,</hi> lying between two hills, the valley being very long, but exceeding narrow, ſo that it was above a hundred paces over; there ſtood ſeveral ſmall Houſes or Cottages inhabited by Shepherds and o<g ref="char:EOLhyphen"/>ther poor people, their dwellings being only made of Loam-walls, one ſtory, and thatcht over head: Here the Snow (which began earlyer, and was far more violent and exceſſive in thoſe parts than in theſe Southern Counties) came ſo furiouſly driven down the Hills by North-Eaſt Winds, that the poor people could hardly ſtir abroad, it was grown ſo deep on a ſudden, inſomuch that ſome of them began to apprehend danger, and thought to have got away over the hills, to ſome place of more ſecurity, but this wholeſom adviſe (which might have preſerved their lives) was ſlighted by others more bold, who alledged that it could not Snow always, and that no queſtion but it would be over in ſhort time; and indeed (as if their un<g ref="char:EOLhyphen"/>happy Fates had over-ruled the Weather, to flatter them
+<pb n="4" facs="tcp:34078:4"/>
+               <!-- PDF PAGE 22 -->to their ruine) after the firſt two or three days (which had covered the ground generally four or five foot deep, but in drift at ſome places, it lay at leaſt ten or tw<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lve foot high) The heavens ſeemed more clear, as if they ſhould have been troubled with no mote, but behold on the third day of <hi>March,</hi> being <hi>Shrove-Tueſday,</hi> it fell a ſnowing again with greater violence (the weather being exceſſive cold; and the wind continuing high as before) all that day and night, ſo that the whole Valley was filled with Snow, and almoſt level'd with the tops of the Hills, the houſes were Co<g ref="char:EOLhyphen"/>vered over, and not to be ſeen; the miſerable people when they had ſlept long, and waited tediouſly for the aproach of day, at laſt get up, and think to look abroad, but this they endeavour in vain, for they find themſelves buried alive in Snow, and though they uſed their beſt skil, and greateſt ſtrength, could by no means get out: They that had any wood or fireing made uſe of it, hoping by that means to melt themſelves out a way, but found not that ſo effectual as <hi>Hannibal</hi>'s Project, famous in Hiſtory, when he eat a paſſage for his Army, through thoſe vaſt Mountains of the <hi>Alps,</hi> with Vinegar; for having thus to no purpoſe wearied themſelves, and waſted their Fuel, Cold, Hunger, Darkneſs, Horrour, and Diſpair begin all at once to ſeize their hearts: their poverty for the moſt part was ſuch, as did not allow them to keep much ſtore of Proviſion in their houſes before-hand, and the weather had been ſo bad for above a Fortnight before, that they could not conveniently either work to earn, or go abroad to buy Victuals; ſo that their Stock was ſoon exhauſted, and after having made ſhift as long as poſſibly they could, were at laſt reduced to the worſt of Humane evils, a neceſ<g ref="char:EOLhyphen"/>ſity of ſtarving for want of food.</p>
+            <pb n="5" facs="tcp:34078:4"/>
+            <!-- PDF PAGE 22 -->
+            <p>There needs no Rhetorick to ſet forth the miſerable condition of theſe poor ſouls, which of it ſelf was ſo de<g ref="char:EOLhyphen"/>plorable, that it cannot in the bare Relation, but affect the hearts, and draw Carnation-tears from the eyes of each Compaſſionate Reader. The diſmalneſs of living in con<g ref="char:EOLhyphen"/>tinual darkneſs, as in a Grave: The Extremity of the Froſt, the Lamentations of half diſtracted Women, and cries of dying Children for Bread, whilſt they to whom they make their moans are ſtarving themſelves, may eaſily pre<g ref="char:EOLhyphen"/>ſent the imaginations with ſpectacle of Horrour. Let it ſuffice to ſay, That cold and want at laſt brought welcome death to rid them of their Torments, where paying a ſhoar of Tears as a Juſt Tribute to the Tyranny of their ſad fate, let us leave them, and now look abroad and inquire how they'r found.</p>
+            <p>The Neighbouring People (whom better Situation of their dwellings preſerved from ſuch Calamity) Seeing <hi>Langsdale</hi> Valley ſo overwhelmed with an Inundation of Snow, and touch'd with a generous Commiſeration of the poor Inhabitants, whom they had all the reaſon of the world to conclude, loſt, or in a deſperate condition, aſſem<g ref="char:EOLhyphen"/>ble in great numbers, and with mighty toil in clearing a paſſage, at laſt get to theſe Cottagers, the greater part of whom they found deſtroyed as aforeſaid, whereof ſome lay dead with raw meat in their mouths, having no fire left to dreſs it <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> others that had a better ſtock of fireing made ſhift to keep themſelves alive by eating Cats-fleſh, Dogs, or whatever they could get, and theſe they chari<g ref="char:EOLhyphen"/>tably removed thence and made proviſion for them.</p>
+            <p>This Story as it is moſt ſad in it ſelf, ſo is it moſt true and certain, and we wiſh we were not ſo unhappy as to be able almoſt to parrallel it by another miſcrable Acci<g ref="char:EOLhyphen"/>dent
+<pb n="6" facs="tcp:34078:5"/>
+               <!-- PDF PAGE 23 -->in the Weſt, occaſioned by the very ſame means, as we have it in a Letter from an Ingenious Gentleman of <hi>Bath:</hi> Thus</p>
+            <p>The Snow was ſo great in thoſe parts, that a poor man living with his Wife, and a great charge of Children, on a Common about 10 m. from <hi>Bath,</hi> at a great diſtance from Neighbours, were almoſt ſhut up in the like manner. The good man however made a ſalley out, and endeavoured with his Gun to ſhoot Birds, or what he could meet with for the ſuſtenance of his wanting Family, but found ſo lit<g ref="char:EOLhyphen"/>tle booty, that ſtill they were almoſt ready to ſtarve. Inſo<g ref="char:EOLhyphen"/>much that for ſeveral days they lived upon nothing but a few Grains, till a Gentlemans man riding that way chan<g ref="char:EOLhyphen"/>ced to ſee ſome of the biggeſt children greedily feeding on theſe miſerable dainties, the ſight whereof affected the good natured fellows heart ſo far, that he made further in<g ref="char:EOLhyphen"/>quiry, and being ſoon convinced of their ſad neceſſitous condition, when he came home acquainted his Lady, who being of an excellent charitable diſpoſition, immediately ordered him to carry them as much good wholſome victu<g ref="char:EOLhyphen"/>als as he could, we need not relate with what Joy they re<g ref="char:EOLhyphen"/>ceiv'd this bleſſing, which yet (alas! how fate befools the hopes of ſilly mortals) occaſioned their deaths, who per<g ref="char:EOLhyphen"/>haps might have made ſhift with their Grains to have ſup<g ref="char:EOLhyphen"/>ported their lives, for being ſo near famiſhing, they fell ſo geedily on this unexpected Cheer, that they oppreſt nature ſo fatally that the ſame night the Woman and five of her Children Expired.</p>
+            <p>To theſe unhappy relations we might add diverſe others no leſs true and certain, as that of a Baker and his Bride at <hi>Twexſbury</hi> in <hi>Glocterſhire,</hi> who riding out the very next day, after they were married to viſit ſome friends about ten
+<pb n="7" facs="tcp:34078:5"/>
+               <!-- PDF PAGE 23 -->miles, were both deſtroyed, grim death treading on Hy<g ref="char:EOLhyphen"/>mens heels, and their Nuptial delights child with a cold eternal ſleep in ſheets of Snow, wherein they were after<g ref="char:EOLhyphen"/>wards found dead embraceing each other.</p>
+            <p>Of a Miniſter loſt horſe and all by the ſame means in <hi>Darbyſhire,</hi> three poor women deſtroyed as they endeavor<g ref="char:EOLhyphen"/>ed to go to a Market in <hi>Shropſhire,</hi> two Carryers ſervants ſtiffled by the Snow in <hi>Lincolnſhire,</hi> and a Poſt-boy frozen to death in it neer <hi>Morpeth</hi> in <hi>Northumberland.</hi>
+            </p>
+            <p>What ſhall we ſay of great quantities of Cattel kil'd in <hi>Rumney Marſh,</hi> whole flocks of Sheep periſhed in <hi>Hunting<g ref="char:EOLhyphen"/>tonſhire,</hi> great miſchiefs done in the <hi>Fenns,</hi> and Iſle of <hi>Ely.</hi> In brief, this Superabundant Snow was no leſs Ge<g ref="char:EOLhyphen"/>neral, then prejudicial, and there is ſcarce a County in <hi>England</hi> but may bring in ſeveral Indictments againſt it for damages ſuſteyned to a conſiderable value, not to ſpeak of the miſchiefs occaſioned by great Floods when melted by the Thaw.</p>
+            <p>Nor is it only <hi>England</hi> has been a ſufferer, our For<g ref="char:EOLhyphen"/>raign Letters give us an Account that other Nations have at the ſame time been ſharers in miſeries of the like kind: Perticularly in <hi>Germany</hi> the Snow has not been only great, but in a ſort Prodigious. Letters from <hi>Vienna,</hi> of the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6th. of <hi>February, S. N.</hi> informing, That thereabouts there had been great quantities of Worms and Cobwebs falling in the Snow, of which abundance alſo were obſerved in <hi>Inſpr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ike</hi> in the County of <hi>Tyrol,</hi> of which great notice had been taken by ſeveral Curious Enquirers after ſuch ſtrange Accidents: Though it ſeems often to have been ſeen before: For ſo ſaith the Ingenious <hi>Johannes Heidfeil<g ref="char:EOLhyphen"/>dius,</hi> in <hi>Sua Sphing<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Philoſophicâ, Alicubi in ipfis nivibus naſcuntur vermiculi &amp; Tinea:</hi> This we are ſure of, that
+<pb n="8" facs="tcp:34078:6"/>
+               <!-- PDF PAGE 24 -->we could never more properly than of late repeat that of the Poet:</p>
+            <q>
+               <lg>
+                  <l>Ecce ruit denſum tacitarum vellus Aqua<g ref="char:EOLhyphen"/>rum:</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>A</hi> Feather'd Rain, came in abundance down,</l>
+                  <l>And with dry Inundations did us Drown.</l>
+               </lg>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
